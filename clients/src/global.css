@@ -1,0 +1,6 @@
+.MuiAppBar-root {
+  border-radius: 15px !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
